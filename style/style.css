@@ -1,0 +1,43 @@
+<STYLE TYPE="text/css">
+<!-- 1001fonts.com/* Hide from browsers that do not understand CSS */
+TBODY {
+
+  font-family : Trebuchet MS;
+  font-style  : normal;
+  font-size   : 8pt;
+}
+BODY {
+
+  font-family : Trebuchet MS;
+  font-style  : normal;
+  font-size   : 9pt;
+}
+.gradient
+{
+	background-image: url(images/stripe.jpg);
+  	background-repeat: no-repeat;
+
+}
+.asterix
+{
+	font-size: 15pt;
+}
+input, select, textarea {
+    	font-face: Trebuchet MS
+  	font-style  : normal;
+  	font-size   : 8pt;
+	background-color: white;
+}
+
+.maintext {
+  font-family : Trebuchet MS;
+  font-style : normal;
+  font-size : 10pt;
+}
+
+a:link        {color: #000000; font-weight: bold; text-decoration: none}
+a:active      {color: #000000; font-weight: bold; text-decoration: none}
+a:visited     {color: #000000; font-weight: bold; text-decoration: none}
+a:hover       {color: #000000; font-weight: bold; text-decoration: underline}
+-->
+</STYLE>

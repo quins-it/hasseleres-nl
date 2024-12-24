@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: /restricted
+Disallow: /cgi-bin
+Disallow: /php
+Disallow: /images
+Disallow: /incl
+Disallow: /mailbox
+Disallow: /mrtg
+Disallow: /phpMyAdmin
+Disallow: /phpMyAdmin-2.5.4-rc1
+Disallow: /phpMyAdmin-2.6.0-pl2
+Disallow: /phpMyAdmin-2.4.0-rc2
+Disallow: /phpadmin
+Disallow: /service
+Disallow: /usage
+Disallow: /webmail
+Disallow: /wcal
+
